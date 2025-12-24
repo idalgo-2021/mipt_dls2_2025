@@ -35,7 +35,7 @@
 
     * [Homework-5](HW5_hf_rag.ipynb)
 
-6. **Retrieval-Augmented Generation (RAG)**
+6. **'You Are Bot!' - Kaggle competition**
 
     * [Homework-6 'You Are Bot!' - Kaggle competition](HW6_bototest.ipynb)
 
