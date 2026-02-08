@@ -41,3 +41,10 @@
 
 
 ## Final project
+* See topics in folder "Themes for the final project"
+* My final project [SneakerHub AI Assistant](https://github.com/idalgo-2021/dls_aiagent)
+    * Technologies:
+        * smolagents
+        * Aiogram (asynchronous Python framework)
+        * SQLite
+        
