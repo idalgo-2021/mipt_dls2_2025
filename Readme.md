@@ -3,6 +3,7 @@
 * [Deep Learning School](https://dls.samcs.ru)
 * [Materials of the first part (2st-semestr) of Deep Learning School course (ML + CV)](https://github.com/DeepLearningSchool/part_2_nlp)
 * [Course page on stepic.org](https://stepik.org/course/251729/info)
+* [Deep Learning: часть 2. Обработка естественного языка](https://www.youtube.com/playlist?list=PL0Ks75aof3ThuLLtLIVl_KPUDDQlTDyJI)
 
 ---
 
